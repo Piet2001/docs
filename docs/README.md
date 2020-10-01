@@ -16,7 +16,7 @@ Mit dieser Erweiterung wird ein Appstore zum Spiel hinzugefügt, welcher das Ins
 Plugins die nicht aktiviert sind, werden auch nicht geladen - das macht die Verwaltung natürlich sehr einfach und sorgt für eine bessere Performance.
 
 ::: danger
-Die [Polizeiversion](https://police.leitstellenspiel.de) wird von uns aktuell nicht supported!
+Die [Polizeiversion](https://polizei.leitstellenspiel.de) wird von uns aktuell nicht supported!
 :::
 
 ## End of Life
