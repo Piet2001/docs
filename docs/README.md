@@ -4,7 +4,7 @@ lang: de
 sidebarDepth: 2
 ---
 
-# Wiki :de: <Badge text="LSSM Stable 3.3.5"/>
+# Wiki :de: <Badge text="LSSM Stable 3.3.7"/>
 
 
 ## Über den LSSM
@@ -15,6 +15,12 @@ Mit dieser Erweiterung wird ein Appstore zum Spiel hinzugefügt, welcher das Ins
 
 Plugins die nicht aktiviert sind, werden auch nicht geladen - das macht die Verwaltung natürlich sehr einfach und sorgt für eine bessere Performance.
 
+::: danger
+Die [Polizeiversion](https://polizei.leitstellenspiel.de) wird von uns aktuell nicht supported!
+:::
+
+## End of Life
+Da der LSS-Manager V4 kurz vor dem Release steht, ist der LSS-Manager V3 nun im End of Life. Das heißt, dass es keine neuen Features mehr für den LSS-Manager V3 geben wird. Dringende Bugfixes werden aber weiterhin durchgeführt.
 
 ## Installation :inbox_tray:
 Mit der Nutzung des LSSM bist du damit einverstanden, dass wir Metadaten erheben. Mehr Informationen hierzu findest du unter [Metadaten](./metadaten)
@@ -44,9 +50,7 @@ Bitte beachte, dass wir ältere Browser, sowie mobile Browser und Microsoft Edge
 :::
 
 ### Schritt 2: Userscript
-Wenn Tampermonkey in deinem Browser erfolgreich installiert wurde, kannst du entweder [hier](https://github.com/LSS-Manager/lss-manager-v3/raw/master/lssm-v3.user.js) klicken oder ein neues Userscript mit folgendem Inhalt anlegen:
-
-<<< lssm-v3.user.js
+Wenn Tampermonkey in deinem Browser erfolgreich installiert wurde klickt du [hier](https://github.com/LSS-Manager/lss-manager-v3/raw/master/lssm-v3.user.js).
 
 ### Schritt 3: Aktivieren
 Folgendes ist der Indikator für einen aktiven LSS-Manager: ![LSSM-Indikator](/img/lssm_navbar.png)

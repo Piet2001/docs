@@ -4,7 +4,7 @@ lang: es
 sidebarDepth: 2
 ---
 
-# Wiki :es: <Badge text="LSSM Stable 3.3.5"/>
+# Wiki :es: <Badge text="LSSM Stable 3.3.7"/>
 
 ## Acerca de la LSSM
 
