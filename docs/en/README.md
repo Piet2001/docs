@@ -4,7 +4,7 @@ lang: en
 sidebarDepth: 2
 ---
 
-# Wiki :us: :gb: :australia: <Badge text="LSSM Stable 3.3.5"/>
+# Wiki :us: :gb: :australia: <Badge text="LSSM Stable 3.3.7"/>
 
 ## About the LSSM
 LSS MANAGER V3 (LSSM) is an extension for [missionchief.com](https://missionchief.com), [missionchief.co.uk](https://missionchief.co.uk) and [missionchief-australia.com](https://missionchief-australia.com).
@@ -12,6 +12,13 @@ LSS MANAGER V3 (LSSM) is an extension for [missionchief.com](https://missionchie
 LSSM is an extension which allows you to install different plugins to your game. All functions from LSSM are modular, so you can decide which to activate.
 
 Plugins which are not activated will not be loaded, increasing performance.
+
+::: danger
+The policeversions of [police.missionchief.com](https://police.missionchief.com) and [police.missionchief.co.uk](https://police.missionchief.co.uk) are currently not supported by us.
+:::
+
+## End of Life
+As LSS-Manager V4 is about to be released, LSS-Manager V3 is now in the End of Life. This means that there will be no more new features for LSS-Manager V3. Urgent bug fixes will however still be implemented.
 
 ## Installation :inbox_tray:
 By using LSSM you agree that we collect metadata. You can find more information about what we collect [here](/en/metadata).
@@ -41,9 +48,7 @@ Please be aware that we don't officially support older browser as well as mobile
 :::
 
 ### Second Step: Install Userscript
-After installing Tampermonkey to your browser, you can click [here](https://github.com/LSS-Manager/lss-manager-v3/raw/master/lssm-v3.user.js) or create a new Userscript with the following content:
-
-<<< lssm-v3.user.js
+After installing Tampermonkey to your browser, click [here](https://github.com/LSS-Manager/lss-manager-v3/raw/master/lssm-v3.user.js).
 
 ### Third Step: Activate
 
