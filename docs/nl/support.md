@@ -23,7 +23,7 @@ Geef ons uw gebruikersnaam of gebruikers-ID. Het is ook noordzakelijk om aan te 
 Nu kunt u ons uw probleem en gebruikersgegevens sturen. Gebruik hiervoor een van onderstaande opties.
 
 ## via Discord
-In onze [Discord Server](https://discord.gg/RcTNjpB) kunt u hulp krijgen in het [`#support`](https://discordapp.com/channels/254167535446917120/607913643140579348) kanaal.
+In onze [Discord Server](https://discord.gg/RcTNjpB) kunt u hulp krijgen in het [`#lssm-help`](https://discord.com/channels/254167535446917120/632909910895755264) kanaal.
 
 ## via GitHub
 U kunt een ISSUE openen op [GitHub](https://github.com/LSS-Manager/lss-manager-v3/issues). Voordat u het probleem Post, moet u eerst controleren of er nog geen ISSUE is met uw probleem. Als deze er wel al is kunt u hierbij aansluiten.

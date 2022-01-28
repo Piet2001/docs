@@ -4,14 +4,17 @@ lang: nl
 sidebarDepth: 2
 ---
 
-# Wiki :netherlands: <Badge text="LSSM Stable 3.3.5"/>
+# Wiki :netherlands: <Badge text="LSSM Stable 3.3.7"/>
 
 ## Over de LSSM
-De LSS MANAGER V3 is een uitbreiding voor meldkamerspel.com
+De LSS MANAGER V3 is een uitbreiding voor [meldkamerspel.com](https://meldkamerspel.com)
 
 Met deze extensie wordt een appstore aan de game toegevoegd, waarmee verschillende plug-ins kunnen worden geïnstalleerd. Alle functies zijn modulair opgebouwd - dus **u** kunt beslissen wat u activeert.
 
 Plug-ins die niet zijn geactiveerd, worden niet geladen - dit verhoogt de prestaties en het beheer.
+
+## End of Life
+Nu LSS-Manager V4 op het punt staat uit te komen, is LSS-Manager V3 aan het einde van zijn leven gekomen. Dit betekent dat er geen nieuwe functies meer zijn voor LSS-Manager V3. Dringende bugfixes zullen echter nog steeds worden uitgevoerd.
 
 ## Installatie :inbox_tray:
 Door de LSSM te gebruiken, gaat u ermee akkoord dat we metadata verzamelen. U kunt [hier](/nl/metadata) meer informatie vinden over wat we  verzamelen.
@@ -33,9 +36,7 @@ Houd er rekening mee dat we officieel geen ondersteuning bieden voor oudere brow
 :::
 
 ### Tweede stap: Userscript
-Wanneer u Tampermonkey succesvol in uw browser heeft geïnstalleerd, kunt u [hier](https://github.com/LSS-Manager/lss-manager-v3/raw/master/lssm-v3.user.js) klikken of een nieuw Userscript maken met de volgende inhoud:
-
-<<< lssm-v3.user.js
+Wanneer u Tampermonkey succesvol in uw browser heeft geïnstalleerd, klik [hier](https://github.com/LSS-Manager/lss-manager-v3/raw/master/lssm-v3.user.js).
 
 ### Derde stap: Activeren
 
